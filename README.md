@@ -50,9 +50,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Hasibul-Hasan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Hasibul-Hasan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Hasibul-Hasan&theme=transparent&utcOffset=8) 
-
-<br/>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=650" />
 </a>
