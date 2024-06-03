@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-hasibul-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="md-hasibul-hasan" /> </p>
 
 <div align="center">
- 📖 I’m currently studying **Computer Science & Engineering**
+ 📖 I’m currently studying <b>Computer Science & Engineering</b> </br> </br>
 
  💬 Ask me about **Web Development, AI, ML**
 
