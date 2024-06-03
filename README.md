@@ -5,8 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-hasibul-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="md-hasibul-hasan" /> </p>
 
+
+
 <div align="center">
- 📖 I’m currently studying <b>Computer Science & Engineering</b> </br> </br>
+ 📖 I’m currently studying <b>Computer Science & Engineering</b> <br><br>
 
  💬 Ask me about **Web Development, AI, ML**
 
@@ -14,6 +16,8 @@
 
  ⚡ Fun fact **I code with cat 😸**
 </div>
+
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +33,9 @@
 
 </p>
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -43,15 +50,24 @@
  
  </p>
 
-<div align="center">
+
+
 <hr/>
 
+<div align="center"> 
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Hasibul-Hasan&theme=transparent)
+</div>
+
+<div align="center">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Hasibul-Hasan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Hasibul-Hasan&theme=transparent&utcOffset=8) 
-<div align="center">
+ </div>
+
+ <div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=500" />
 </a>
 </div>
-</div>
+
