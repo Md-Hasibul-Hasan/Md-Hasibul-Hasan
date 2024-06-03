@@ -1,21 +1,20 @@
 ![logo](banner.gif)
 
 <h1 align="center">👋 Hi, I'm Md Hasibul Hasan</h1>
-<h3 align="center">A passionate full stack Web Developer from Bangladesh</h3>
-
-<img align="right" alt="Coding..." width="350" src="coding.gif">
-
+<h3 align="center">"A passionate full stack Web Developer from Bangladesh"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-hasibul-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="md-hasibul-hasan" /> </p>
 
-- 📖 I’m currently studying **Computer Science & Engineering**
+<div align="center">
+ 📖 I’m currently studying **Computer Science & Engineering**
 
-- 💬 Ask me about **Web Development, AI, ML**
+ 💬 Ask me about **Web Development, AI, ML**
 
-- 📫 How to reach me **hasib.hasan.th@gmail.com**
+ 📫 How to reach me **hasib.hasan.th@gmail.com**
 
-- ⚡ Fun fact **I code with cat 😸**
-
+ ⚡ Fun fact **I code with cat 😸**
+</div>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasib-hasan-th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasib-hasan-th" height="30" width="40" /></a>
@@ -44,13 +43,15 @@
  
  </p>
 
-
+<div align="center">
 <hr/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Hasibul-Hasan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Hasibul-Hasan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Hasibul-Hasan&theme=transparent&utcOffset=8) 
+<div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=650" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=500" />
 </a>
-
+</div>
+</div>
