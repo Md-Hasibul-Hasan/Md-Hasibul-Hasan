@@ -43,8 +43,8 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,django,c,html,css,javascript,bootstrap"> <br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,arduino">
+<img src="https://skillicons.dev/icons?i=python,django,c,html,css,javascript,bootstrap,mysql"><br>
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,pycharm">
  
 </a>
  </div>
