@@ -65,8 +65,9 @@
  </div>
 
  <div align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=500" />
-</a>
+
+  <img height=150 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8" />
+  <img height="150" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasibul-hasan&theme=transparent&hide_border=false" />
+
 </div>
 
