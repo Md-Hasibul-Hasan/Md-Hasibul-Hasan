@@ -64,10 +64,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Hasibul-Hasan&theme=transparent&utcOffset=8) 
  </div>
 
- <div align="center">
+ <div align="center" height="150">
 
-  <img height=150 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8" />
-  <img height="150" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasibul-hasan&theme=transparent&hide_border=false" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=300" /> 
+  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasibul-hasan&theme=transparent&hide_border=false&card_width=400" />
 
 </div>
 
