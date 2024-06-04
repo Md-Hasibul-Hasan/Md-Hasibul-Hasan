@@ -7,6 +7,7 @@
 
 
 
+
 <div align="center">
  
  📖 I’m currently studying **Computer Science & Engineering**
@@ -68,6 +69,20 @@
 
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=300" /> 
   <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasibul-hasan&theme=transparent&hide_border=false&card_width=400" />
+
+</div>
+
+
+
+[![GitHub followers](https://img.shields.io/github/followers/Md-Hasibul-Hasan?label=Follow&style=social)](https://github.com/Md-Hasibul-Hasan) 
+
+
+<div align="center">
+<a href="https://wakatime.com/@037e6da7-2732-4edb-a8b0-267251c6294b"><img style="width: 35%;" src="https://wakatime.com/badge/user/037e6da7-2732-4edb-a8b0-267251c6294b" /></a>
+
+
+</div>
+
 
 </div>
 
