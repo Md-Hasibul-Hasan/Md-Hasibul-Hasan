@@ -79,7 +79,7 @@
 
 <div align="center">
  
- <a href="https://wakatime.com/@037e6da7-2732-4edb-a8b0-267251c6294b"><img src="https://wakatime.com/badge/user/037e6da7-2732-4edb-a8b0-267251c6294b.svg" alt="Total time coded since Jun 4 2024" /></a>
+ <a href="https://wakatime.com/@037e6da7-2732-4edb-a8b0-267251c6294b"><img style="width: 35%;" src="https://wakatime.com/badge/user/037e6da7-2732-4edb-a8b0-267251c6294b.svg" alt="Total time coded since Jun 4 2024" /></a>
 
 </div>
 
