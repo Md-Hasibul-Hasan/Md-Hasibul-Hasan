@@ -33,7 +33,7 @@
 <a href="https://www.hackerrank.com/hasib_hasan_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasib_hasan_th" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hasib_hasan_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hasib.hasan.th" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hasib_hasan_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="7n5zykl1t5" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hasibhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hasibhasan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hasib_hasan_th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hasib_hasan_th" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hasib.hasan.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasib.hasan.th" height="30" width="40" /></a>
 
 </p>
