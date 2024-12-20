@@ -69,7 +69,7 @@
  <div align="center" height="150">
 
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Hasibul-Hasan&theme=transparent&layout=compact&langs_count=8&card_width=350" /> 
-  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasibul-hasan&theme=transparent&hide_border=false&card_width=400" />
+  <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Hasibul-Hasan&theme=transparent&hide_border=false&card_width=400" />
 
 </div>
 
