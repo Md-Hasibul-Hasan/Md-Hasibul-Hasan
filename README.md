@@ -45,8 +45,8 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,c,html,css,javascript,bootstrap,mysql&theme=dark&perline=9"><br>
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,pycharm">
+<img src="https://skillicons.dev/icons?i=tailwind,react,django,fastapi,html,css,javascript,cpp,python&theme=light&perline=9"><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,arduino,git,github,vscode,pycharm">
  
 </a>
  </div>
