@@ -45,7 +45,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,c,html,css,javascript,bootstrap,mysql"><br>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,c,html,css,javascript,bootstrap,mysql&theme=dark&perline=9"><br>
 <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,pycharm">
  
 </a>
