@@ -45,8 +45,8 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tailwind,react,django,fastapi,html,css,javascript,cpp,python&theme=dark&perline=9"><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,arduino,git,github,vscode,pycharm&theme=dark">
+<img src="https://skillicons.dev/icons?i=tailwind,react,next,django,fastapi,python,cpp,javascript&theme=dark&perline=9"><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,aws,docker&theme=dark">
  
 </a>
  </div>
